@@ -1,4 +1,4 @@
-# `Azure`
+# `Azure With Socket - 1`
 Azure provides a service called Azure Web PubSub, which is designed for real-time communication using WebSocket protocols. This is a great alternative to AWS API Gateway’s WebSocket Server, allowing you to implement a chat system in Azure without relying on libraries like Socket.io.
 
 
